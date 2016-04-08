@@ -1,4 +1,4 @@
-# = Define: apache::dotconf
+## = Define: apache::dotconf
 #
 # General Apache define to be used to create generic custom .conf files
 # Very simple wrapper to a normal file type
